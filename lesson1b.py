@@ -40,7 +40,12 @@ print(mylist)
 mylist.insert(0, "Finland")
 print(mylist)
 
+# Below is a  list inside of a list
+list2 = [["James", "Tony","Bernard", "Jeremiah"], ["Joyce", "Mary", "Oscar", "Martha"], ["Brian", "Edward","Joseph", "Linet"]]
+print("The name is: ",list2[0][2])
+
 # create two lists with 3 items each and then join the two list to make one big list
+
 
 
 # 4 : Tuple : This is an immutable type of a list meaning : it is unchangeable. The way you define the tuple at first it remains the same upto the end.
