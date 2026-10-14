@@ -6,7 +6,7 @@ car1 = Car()
 car2 = Car()
 car3 = Car()
 
-print(car1, car2, car3)
+# print(car1, car2, car3)
 
 # Below we give our different objects some attributes.
 car1.brand = "Toyota"

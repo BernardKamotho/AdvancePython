@@ -1,5 +1,5 @@
 # Python OOP -> It enables us to organize code into objects. 
-# An object is a real world thing that has attributes/features/characteristics and functions/methods/actionables.
+# An object is a real world thing that has attributes/features/characteristics and functions/methods/actionables/Behaviours.
 # A class is a blueprint from which objects can be created from.
 
 
